@@ -347,7 +347,7 @@ class _MetHomeDesktopState extends State<MetHomeDesktop> {
                   decoration: BoxDecoration(
                     shape: BoxShape.circle,
                   ),
-                  child: ClipRRect(
+                  child: ClipOval(
                     child: BackdropFilter(
                       filter: ImageFilter.blur(sigmaX: 4.0, sigmaY: 4.0),
                       child: Container(
