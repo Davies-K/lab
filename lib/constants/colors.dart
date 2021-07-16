@@ -2,6 +2,7 @@ part of constants;
 
 class AppColors {
   static final Color greyBackground = HexColor.fromHex("F1F1F1");
+  static final Color white = Color(0xFFFFFFFF);
 }
 
 extension HexColor on Color {

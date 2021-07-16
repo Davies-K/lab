@@ -1,11 +1,11 @@
 import 'package:flutter/cupertino.dart';
 
-class MetHomeDesktop extends StatefulWidget {
+class MetHomeMobile extends StatefulWidget {
   @override
-  _MetHomeDesktopState createState() => _MetHomeDesktopState();
+  _MetHomeMobileState createState() => _MetHomeMobileState();
 }
 
-class _MetHomeDesktopState extends State<MetHomeDesktop> {
+class _MetHomeMobileState extends State<MetHomeMobile> {
   @override
   Widget build(BuildContext context) {
     return Container();
