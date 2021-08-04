@@ -1,5 +1,5 @@
 # Lab Studios
-<h1 align="center">https://davies-k.github.io/fendi</h2>
+<h1 align="center">https://davies-k.github.io/Lab-Portfolio</h2>
 <p align="center">This is the UI challenge, made with ❤️ flutter ❤️.</p>
 <p align="center">It is inspired by <a href="https://dribbble.com/shots/13999791-lab-works-tech-wear"> Lab Studios</a></p>
 
