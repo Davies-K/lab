@@ -298,6 +298,7 @@ class _MetHomeDesktopState extends State<MetHomeDesktop> {
                     )))),
 
             //Image
+            //image here
             Center(
                 child: Container(
                     height: 480,
